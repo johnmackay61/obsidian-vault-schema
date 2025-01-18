@@ -1,1 +1,1 @@
-Store information on products here be they vehicles you're researching, hobby or professional products.
+Store information on products you're researching from apparel to vehicles.
