@@ -1,7 +1,7 @@
 # obsidian-vault-schema
 ## A universal Obsidian vault schema derived from schema.org
 
-As a long-time user of Obsidian Note-taking App, I decided in 2022 that I wanted to settle on a structured approach to notetaking and after reviewing optons from [Dublin Core](https://www.dublincore.org) to [Schema.org](https://schema.org) I decided on the latter.
+As a long-time user of [Obsidian](https://obsidian.md) Note-taking App, I decided in 2022 that I wanted to settle on a structured approach to notetaking and after reviewing optons from [Dublin Core](https://www.dublincore.org) to [Schema.org](https://schema.org) I decided on the latter.
 
 As such I have used the system as my sloe notes repository for over two years before I felt comforatble about offerring it as a solution for others. In the last two years I have used this format to conduct research, write articles and publish my latest book the [Gospel of Being](https://www.johnmackay.net/gospel-of-being.htm). I also use it to journal, records tasks from shopping lists to project planning such as book marketing and Landing Page design etc.
 
