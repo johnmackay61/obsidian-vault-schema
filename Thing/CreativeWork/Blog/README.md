@@ -1,0 +1,1 @@
+This is your daily repo for unstructred writing i.e. anything you are working on for the day. This is so you don;t interruot your train of thought trying to think where your note should go. In other wwords youstart with unstructured writing and then once it's ready you'll transform it into a structured work be it an article, a book or any other type of structured communication.
