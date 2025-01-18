@@ -1,1 +1,1 @@
-This is where you will store information on people be they living or dead including biographical information with links to services and or organisations too.
+This is where you will store information on people be they living or dead, real or imagined (i.e. characters for a book) including biographical information with links to services and or organisations too.
