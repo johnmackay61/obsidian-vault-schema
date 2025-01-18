@@ -1,0 +1,1 @@
+This where you record guides to do doing anything i.e. any how-tos you need to function in life, in other words practceal guides for you and your family should they need them. If you choose to create an article or book from these you will rework the content so as to be for public consumption. In other words you might decide to turn a guide into an article to benefit others.
