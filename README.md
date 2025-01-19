@@ -17,5 +17,5 @@ My vault of 2 years weighs in at around 3GB as I'm a bit of a Magpie using it as
 - Data View; and
 - Paste Image Rename
 
-### Note
-This is a work in progress so if this looks unfinished it's because it is as I'm doing it in my spare time.
+>[!Note]
+>This is a work in progress so if this looks unfinished it's because it is as I'm doing it in my spare time.
